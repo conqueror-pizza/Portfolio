@@ -27,7 +27,7 @@ It is **subject to change and improvement over time** as I gain new experiences,
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6)  
 - **UI/UX:** Responsive design, animations, Font Awesome icons, Google Fonts  
-- **Deployment:** [Vercel](https://vercel.com/)  
+- **Deployment:** [Vercel](portfolio-ruddy-two-48.vercel.app)  
 
 ---
 
