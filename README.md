@@ -49,9 +49,3 @@ It is **subject to change and improvement over time** as I gain new experiences,
 - 📘 [Facebook](https://www.facebook.com/duke.salfred.bocala.2025)  
 - 📷 [Instagram](https://www.instagram.com/duke_hyou_/)  
 
----
-
-## ⚡ How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/conqueror-pizza/your-repo-name.git
